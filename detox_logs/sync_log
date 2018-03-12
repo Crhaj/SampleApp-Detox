@@ -1,0 +1,3161 @@
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: transitionWithView:duration:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: transitionWithView:duration:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ WXRunLoopIdlingResource: React Native thread is busy.
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXRunLoopIdlingResource: React Native thread is busy.
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ WXRunLoopIdlingResource: React Native thread is busy.
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ Timed: animateWithDuration:delay:options:animations:completion:
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ WXAnimatedDisplayLinkIdlingResource: undefined
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Timed: performSelector @selector(removeFromSuperview) on COSTouchSpotView
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ Timed: performSelector @selector(removeInactiveFingerTips) on COSTouchVisualizerWindow
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ App State: undefined
+ Dispatch Queue: com.apple.main-thread
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Timed: animateWithDuration:delay:options:animations:completion:
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
+ Dispatch Queue: com.apple.main-thread
