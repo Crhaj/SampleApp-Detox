@@ -1,0 +1,78 @@
+#!/bin/bash
+
+### Function definition for printing bold text
+bold () {
+    echo "$(tput bold)${1}$(tput sgr0)"
+}
+
+killallAndWait () {
+    procName="$1"
+
+    killall "$procName"
+
+    while ps -ax -o ucomm | grep "^${procName}\s*\$" >/dev/null 2>&1
+    do
+        bold "Waiting for $procName to quit"
+        sleep 1
+    done
+}
+
+bold "Cleaning iOS simulator..."
+killallAndWait Simulator
+xcrun simctl erase all
+
+bold "Killing all node processes (also packager's)"
+killallAndWait node
+bold "Cleaning watchman, packager cache..."
+watchman watch-del-all
+rm -rf $TMPDIR/react-*
+# From RN50:
+rm -rf $TMPDIR/react-native-packager-cache-*
+rm -rf $TMPDIR/metro-bundler-cache-*
+rm -rf $TMPDIR/haste-map-metro-bundler-*
+rm -rf $TMPDIR/metro-bundler-symbolicate*
+
+
+bold "Cleaning JS modules..."
+rm -rf node_modules/
+npm cache clean --force
+yarn cache clean --force
+bold "Installing JS modules..."
+yarn install
+
+bold "Cleaning flow cache..."
+rm -rf /tmp/flow
+
+bold "Cleaning Xcode DerivedData"
+killallAndWait Xcode
+rm -rf ~/Library/Developer/Xcode/DerivedData/*
+bold "Cleaning Xcode /var/folders"
+rm -rf "$(getconf DARWIN_USER_CACHE_DIR)/org.llvm.clang/ModuleCache"
+rm -rf "$(getconf DARWIN_USER_CACHE_DIR)/com.apple.DeveloperTools"
+
+
+bold "Cleaning xcodebuild build folder..."
+cd ./ios
+rm -rf ./build
+bold "Cleaning Carthage..."
+rm -rf ./Carthage
+
+bold "Installing carthage..."
+carthage bootstrap --platform iOS
+
+echo ""
+bold "If you are running the app on device, uninstall the app."
+bold "Press and hold on the app icon and tap the cross."
+
+########################
+###
+### Troubleshooting
+###
+########################
+
+### If Xcode build fails:'config.h' file not found
+#
+# ./node_modules/react-native/ios-install-third-party.sh
+# rm -rf node_modules
+# yarn install
+
